@@ -19,3 +19,5 @@ var server = net.createServer(function(socket) {
 });
 
 server.listen(3000);
+
+module.exports = exports = server;
